@@ -64,6 +64,10 @@ The API:
 
 Simulates receiving a payment status webhook from an external payment system.
 
+## System Architecture
+
+![Mock Wallet API Architecture](architecture.png)
+
 ## Database
 
 The project uses three main tables:
